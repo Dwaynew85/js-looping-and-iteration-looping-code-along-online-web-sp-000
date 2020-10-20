@@ -8,7 +8,7 @@ function writeCards(names, event) {
 }
 
 function countDown
-i = 10
+let i = 10
 while (i > 0) {
   consol.log(i =- 1)
 }
